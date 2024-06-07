@@ -1,3 +1,9 @@
+<!--
+# SPDX-FileCopyrightText: Copyright 2024 SAP SE or an SAP affiliate company and cobaltcore-dev contributors
+#
+# SPDX-License-Identifier: Apache-2.0
+-->
+
 # SAP Repository Template
 
 Default templates for SAP open source repositories, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/SAP will be created based on this template.
