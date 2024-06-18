@@ -9,7 +9,7 @@ on:
 
 jobs:
   close-issues:
-    runs-on: [ default ]
+    runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
